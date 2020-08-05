@@ -1,0 +1,9 @@
+-	How does the Web work ? 
+The Web is a system of Internet servers that supports specially formatted documents. HTTP is the protocol that web browsers and web servers use to communicate with each other over the Internet.
+-	What do you need to be a Web developer ? 
+No specific degree or educational path exists for careers in Web development, and it’s possible to become a Web developer with or without a formal education.
+Prospective web developers should have expertise in the three core programming components which are HTML, CSS, and JavaScript, and know more and more about new technologies.
+-	What’s the role of a Web developer ? 
+
+A Web developer is responsible for creating user interfaces like a website or a web application from scratch, or to simply update it by adding or removing content, design. A Web developer is also responsible of deploying his work on the Internet to be visible by other users. 
+
